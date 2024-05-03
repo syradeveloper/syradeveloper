@@ -1,9 +1,9 @@
 Hi! 👋
 My name is Pivo, welcome to my profile.
 ====
--  I’m currently working on **ply_Alib**
+-  I’m currently working on **ply_Alib**, an add-on for already existing forum, writen on python 
 
--  I’m currently learning **cpp and python**
+-  I’m currently learning **cpp, python and javascript**
 
 <img src="https://sun9-41.userapi.com/impg/9GJd-XkUGvdQTNYStGQh8UVrk5CoRHK5NsWlNQ/AXDpKuOgn5U.jpg?size=836x643&quality=95&sign=db8455ec819d5e91eeed23ca385a3a50&type=album" alt="дагестан" width="185" height="155">
 
