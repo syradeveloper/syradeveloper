@@ -1,14 +1,32 @@
-Hi! 👋
-My name is Pivo, welcome to my profile.
-====
--  I’m currently working on **ply_Alib**, an add-on for already existing forum, writen on python 
+<h1 align="center">PivoSteve 👋 </h1>
 
--  I’m currently learning **cpp, python and javascript**
 
-<img src="https://sun9-41.userapi.com/impg/9GJd-XkUGvdQTNYStGQh8UVrk5CoRHK5NsWlNQ/AXDpKuOgn5U.jpg?size=836x643&quality=95&sign=db8455ec819d5e91eeed23ca385a3a50&type=album" alt="дагестан" width="185" height="155">
+> ** **
+```
+[syra@archlinux ~]$ sudo rm rf /
+[sudo] password for syra: █
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pivosteve&theme=dark" alt="pivosteve" /></p>
+> ** **
+<div align="center">
+  
+  [<img src="https://www.svgrepo.com/download/448261/youtube.svg" width="35">](https://www.youtube.com/@SyraDeveloper) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [<img src="https://www.svgrepo.com/download/353655/discord-icon.svg" width="35">](https://discordapp.com/users/518694588609986572/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [<img src="https://avatars.githubusercontent.com/u/169077550?s=200&v=4" width="35">](https://github.com/TFZO) 
+  
+</div>
 
+> ** **
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Welcome!";
+    system("pause");
+    return 0;
+}
+```
+<p align="center" >
+    <img src='https://github-readme-stats.vercel.app/api?username=PivoSteve&show_icons=true&theme=tokyonight&rank_icon=github' width='400'>
+</p>
