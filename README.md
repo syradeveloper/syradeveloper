@@ -3,7 +3,7 @@
 
 > ** **
 ```
-[syra@archlinux ~]$ sudo rm rf /
+[syra@archlinux ~]$ sudo rm rf /*
 [sudo] password for syra: █
 ```
 
