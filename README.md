@@ -20,10 +20,11 @@
 > ** **
 ```cpp
 #include <iostream>
-using namespace std;
 
 int main() {
-    cout << "Welcome!";
+    std::cout << "i'm a dev!" << std::endl;
+    std::cout << "contact me in telegram" << std::endl;
+    std::cout << "@syradeveloper" << std::endl;
     system("pause");
     return 0;
 }
