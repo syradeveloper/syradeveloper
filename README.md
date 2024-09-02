@@ -1,4 +1,4 @@
-<h1 align="center">PivoSteve 👋</h1>
+<h1 align="center">Syra 👋</h1>
 
 <h1 align="center">>> <a href="https://pivosteve.github.io/2501">Portfolio website</a> <<</h1>
 
