@@ -26,8 +26,8 @@
 
 int main() {
     std::cout << "I use C++, Python, or Java. Backend is my beloved:P" << std::endl;
-    std::cout << "Contact me in telegram" << std::endl;
-    std::cout << "@syradeveloper" << std::endl;
+    std::cout << "Have questions?" << std::endl;
+    std::cout << "Contact me in telegram: @syradeveloper" << std::endl;
     system("pause");
     return 0;
 }
