@@ -21,8 +21,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "i'm a dev!" << std::endl;
-    std::cout << "contact me in telegram" << std::endl;
+    std::cout << "I use C++, Python, or Java. Backend is my beloved:P" << std::endl;
+    std::cout << "Contact me in telegram" << std::endl;
     std::cout << "@syradeveloper" << std::endl;
     system("pause");
     return 0;
