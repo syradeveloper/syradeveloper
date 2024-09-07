@@ -1,7 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=60&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=1020&height=60&lines=Syra+Developer" alt="Typing SVG" /></a>
-<h1 align="center">>> <a href="https://pivosteve.github.io/2501">Portfolio website</a> <<</h1>
+<h3 align="center">>> <a href="https://syradeveloper.github.io/2501">Portfolio website</a> <<</h3>
 
-<h3 align="center"> 🌐 Full Stack Developer | 🛠️ C++, Java, Python Developer | 🇰🇿 Almaty, Kazakhstan </h3>
+<h3 align="center"> 🌐 Full Stack Developer | 🛠️ C++, Java, Lua, Python | 🇰🇿 Almaty, Kazakhstan </h3>
+<h4 align="center"> 🔐 Cyber Security | 🖌 ImGui Designer </h4>
 
 > ** **
 ```
