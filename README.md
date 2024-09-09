@@ -15,8 +15,9 @@
 
   [<img src="https://www.svgrepo.com/download/448261/youtube.svg" width="35">](https://www.youtube.com/@SyraDeveloper) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [<img src="https://www.svgrepo.com/download/353655/discord-icon.svg" width="35">](https://discordapp.com/users/518694588609986572/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [<img src="https://avatars.githubusercontent.com/u/169077550?s=200&v=4" width="35">](https://github.com/TFZO) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [<img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-9.png" width="32">](https://t.me/syradeveloper) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [<img src="https://avatars.githubusercontent.com/u/169077550?s=200&v=4" width="35">](https://github.com/TFZO) 
+  [<img src="https://www.svgrepo.com/show/444835/mail-send.svg" width="35">](mailto:syradeveloper@gmail.com) 
 
 </div>
 
